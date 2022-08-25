@@ -1,0 +1,232 @@
+*{
+	padding:0px;
+	margin:0px;
+	text-decoration:none;
+	font-family: 'Poppins', sans-serif;
+}
+.front-cont{
+	position:relative;
+	
+}
+.vidoe{
+width:100%;
+height:100vh;
+position:absolute;
+}
+.back{
+
+height:100px;
+width:100%;	
+position:absolute;
+background-color:#F1EEE9;
+}
+.logo{
+height:100px;
+position:absolute;
+width:auto;
+left:20px;
+}
+.txt1 a{
+	
+	position:absolute;
+	color:#000;
+	top:40px;
+	left:350px;
+}
+.txt2 a{
+	
+	position:absolute;
+	color:#000;
+	top:40px;
+	left:580px;
+
+}
+
+.txt3 a{
+	position:absolute;
+	color:#000;
+	top:40px;
+
+	left:790px;
+}
+.txt4 a{
+	position:absolute;
+	color:#000;
+	top:40px;
+	left:950px;
+
+	
+}
+.features{
+	position:absolute;
+	top:750px;
+	left:600px;
+	font-size:28px;
+}
+.button{
+	border-radius:20px;
+	padding:10px 40px;
+	position:absolute;
+	top:500px;
+	left:620px;
+	   background-color: transparent;
+	   color:white;
+	   border-color:white;
+}*
+.second{
+	position:absolute;
+	height:100vh;
+	width:100%;
+}
+.im1{
+	position:absolute;
+	height:200px;
+	top:800px;
+	left:200px;
+}
+.cont1{
+	position:absolute;
+	top:900px;
+	right:300px;
+}
+.im2{
+	position:absolute;
+	height:200px;
+	top:1100px;
+	right:200px;
+}
+.cont2{
+	position:absolute;
+	top:1200px;
+	left:260px;
+}
+.im3{
+	position:absolute;
+	height:200px;
+	top:1400px;
+	left:200px;
+}
+.cont3{
+	position:absolute;
+	top:1500px;
+	right:300px;
+}
+.foot{
+height:300px;
+width:100%;	
+position:absolute;
+background-color:#F1EEE9;
+top:1800px;
+}
+.logo2{
+height:100px;
+position:absolute;
+width:auto;
+left:640px;
+bottom:150px;
+}
+.copy{
+	bottom:100px;
+	position:absolute;
+	left:550px;
+}
+.txt5{
+	bottom:50px;
+	position:absolute;
+	left:350px;
+}
+.txt6{
+	bottom:50px;
+	position:absolute;
+	left:650px;
+}
+.txt7{
+	bottom:50px;
+	position:absolute;
+	left:950px;
+}
+.button2{
+	border-radius:20px;
+	padding:10px 40px;
+	position:absolute;
+	top:40px;
+	right:100px;
+	   background-color:purple;
+	   color:white;
+	   border-color:white;
+}
+/*
+.top-header{
+width:100%;
+height:100vh;
+position:relative;	
+}	
+.logo{
+color:#000;
+position:absolute;
+top:20px;
+left:50px;
+font-size:18px;
+}	
+.cover-image{
+width:100%;
+height:100vh;
+position:absolute;
+}
+.mod3{
+color:#000;
+position:absolute;
+top:20px;
+left:500px;
+font-size:18px;
+}
+.mody{
+	color:#000;
+position:absolute;
+top:20px;
+left:600px;
+font-size:18px;
+	
+}
+
+.modx{
+color:#000;
+position:absolute;
+top:20px;
+left:700px;
+font-size:18px;	
+}
+.mods{
+color:#000;
+position:absolute;
+top:20px;
+left:800px;
+font-size:18px;
+}
+.account{
+color:#000;
+position:absolute;
+top:20px;
+right:50px;
+font-size:18px;
+}
+.model-name{
+position:absolute;
+top:150px;
+left:600px;
+font-size:32px;
+}
+.tax{
+position:absolute;
+top:190px;
+left:620px;
+font-size:20px;
+}
+button{
+	border-radius:20px;
+	padding:10px 40px;
+	position:absolute;
+	top:480px;
+	left:620px;
+	background-color:grey;
+}*/
